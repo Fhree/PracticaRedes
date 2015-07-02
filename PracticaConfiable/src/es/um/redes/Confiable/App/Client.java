@@ -103,7 +103,6 @@ public class Client {
 				break;
 			}
 		}
-	}
 
 	public void uploadFile() {
     //TODO Client Function

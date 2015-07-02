@@ -9,7 +9,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import es.um.redes.Confiable.Intercambio.Impl.Segmento;
+import es.um.redes.Confiable.Intercambio.data.*;
 
 /**
  * @author dsevilla
