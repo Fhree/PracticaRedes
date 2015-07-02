@@ -14,6 +14,8 @@ import es.um.redes.Confiable.App.Proto.AppData;
 import es.um.redes.Confiable.App.Proto.ByteIO;
 import es.um.redes.Confiable.Intercambio.RelieableConnection;
 
+//hola diego
+
 public class Client {
 	public static final Integer PORT = 6667;
 	public static String ip;
